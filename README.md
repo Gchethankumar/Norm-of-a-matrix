@@ -45,17 +45,19 @@ print(Norm_of_matrix)
 ## Output:
 ### 1-Norm of a Matrix
 
-![Screenshot 2023-04-29 212218](https://user-images.githubusercontent.com/118348224/235311760-8a80cf9e-955e-4d54-bd1d-097d27e398cc.png)
+
+![Screenshot 2023-06-09 191939](https://github.com/Gchethankumar/Norm-of-a-matrix/assets/118348224/a9b3e021-9aa3-473e-8477-138446d49df2)
 
 
 ### 2-Norm of a Matrix
 
-![Screenshot 2023-04-29 212230](https://user-images.githubusercontent.com/118348224/235311763-501a256c-0151-4221-9df4-3771ef252ba1.png)
+![Screenshot 2023-06-09 191953](https://github.com/Gchethankumar/Norm-of-a-matrix/assets/118348224/329356b9-ffbb-46d0-bd67-5566abca3a10)
+
 
 
 ### Infinity Norm of a Matrix
 
-![Screenshot 2023-04-29 212244](https://user-images.githubusercontent.com/118348224/235311765-7e6abadb-6b01-4198-99d2-239ba75ab388.png)
+![Screenshot 2023-06-09 192006](https://github.com/Gchethankumar/Norm-of-a-matrix/assets/118348224/1aa3b4e4-7121-4c45-8575-07d02fe2a0a9)
 
 
 ## Result
